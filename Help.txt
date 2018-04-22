@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5E5F-6239
+
+ Directory of C:\Users\Amig007\Desktop\Jenkins
+
+04/22/2018  01:32 PM    <DIR>          .
+04/22/2018  01:32 PM    <DIR>          ..
+04/21/2018  10:01 PM               475 Hello.class
+04/22/2018  01:22 PM               155 Hello.java
+04/22/2018  01:32 PM                 0 Help.txt
+               3 File(s)            630 bytes
+               2 Dir(s)  19,318,067,200 bytes free
